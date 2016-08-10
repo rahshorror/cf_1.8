@@ -1,2 +1,3 @@
-# CareerFoundry 1.8 - Advanced Images
+# CareerFoundry 1.9 - Responsive Website
 
+CareerFoundry 1.9 - Responsive Website
