@@ -75,6 +75,19 @@ body {
     margin-right: -15px;
 }
 
+.work-meta {
+    float: clear;
+}
+
+#work {
+    padding-top: 75px;
+}
+
+.work-meta img {
+    width: 75%;
+    height: 75%;
+}
+
 .main {
     background-color: lightgray;
     padding-top: 1%;
